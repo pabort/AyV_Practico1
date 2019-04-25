@@ -3,6 +3,6 @@ Trabajo práctico Análisis y Visualización 1
 
 Autores: Pablo Ortiz, Serafin Fernandez, Gisela Scataglini
 
-Comentarios: El presente rabajo fue realizado empleando el software R
-Debe atenderse a que los paquetes/librerías estén instaladas.
+Comentarios: El presente trabajo fue realizado empleando el software R
+Debe tomarse la precaución a que los paquetes/librerías iniciales estén instaladas.
 Adicionalmente, si bien generaron gráficos interactivos (mediante el paquete plotly), los mismos no funcionan en github, por lo que se dejaron estáticos.
